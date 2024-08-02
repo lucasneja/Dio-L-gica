@@ -1,1 +1,2 @@
- Dio-L�gica 
+ Dio-Lógica crie seu herói e seu xp. 
+
